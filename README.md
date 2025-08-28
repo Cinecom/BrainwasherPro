@@ -2,7 +2,7 @@
 
 BrainwasherPro is a quality-of-life addon for the World of Warcraft 1.12.1 client, specifically tailored for Turtle WoW. It replaces the default "Goblin Brainwashing Device" interface with a modern, compact, and feature-rich UI for managing your talent specializations.
 
-![BrainwasherPro Interface]((https://i.ibb.co/vW158py/Brainwasher-Pro.jpg))
+![BrainwasherPro Interface](https://i.ibb.co/vW158py/Brainwasher-Pro.jpg)
 
 ---
 
