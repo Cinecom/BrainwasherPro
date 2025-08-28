@@ -1,12 +1,9 @@
--- BrainwasherPro - Modern Brainwasher Interface for Turtle WoW
--- Compatible with WoW 1.12.1 client
-
 -- Main namespace to avoid global pollution
 BrainwasherPro = {}
 
 -- Localization table for future translations
 local L = {
-    ["TITLE"] = "BrainwasherPro",
+    ["TITLE"] = "Brainwasher Pro " .. GetAddOnMetadata("BrainwasherPro", "Version"),
     ["AVAILABLE_SLOT"] = "Available Talent Slot",
     ["EDIT"] = "Edit",
     ["SAVE"] = "Save",
@@ -18,7 +15,7 @@ local L = {
     ["CONFIRM"] = "Confirm",
     ["SAVE_SPEC_CONFIRM"] = "Save your current talents to this slot?",
     ["LOAD_SPEC_CONFIRM"] = "Load this talent spec? This will cause a brainwasher debuff.",
-    ["RESET_TALENTS_CONFIRM"] = "Reset all your talents? This costs gold and causes a debuff.", -- Generic fallback text
+    ["RESET_TALENTS_CONFIRM"] = "Reset all your talents? This cost 5 gold and causes a debuff.", -- Generic fallback text
     ["YES"] = "Yes",
     ["NO"] = "No",
     ["SHOW_ORIGINAL"] = "Show Original"

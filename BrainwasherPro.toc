@@ -2,7 +2,7 @@
 ## Title: BrainwasherPro
 ## Notes: Modern Brainwasher interface with custom icons and naming for Turtle WoW
 ## Author: Horyoshi
-## Version: 1.1
+## Version: 1.2
 ## SavedVariables: BrainwasherProDB
 
 BrainwasherPro.lua
